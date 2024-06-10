@@ -1,0 +1,12 @@
+#header-bg {
+    background-color: rgb(66, 66, 66) !important;
+    transition: 1s;
+  }
+  #header-text {
+    color: white !important;
+    transition: 1s;
+  }
+  .header-text {
+    color: white !important;
+    transition: 1s;
+  }

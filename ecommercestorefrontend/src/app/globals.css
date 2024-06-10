@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Dev Pulse Studio */
+
+::-webkit-scrollbar{
+  display: none;
+}
+.page-container{
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.content-wrap{
+  flex: 1;
+}
